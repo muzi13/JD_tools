@@ -17,9 +17,45 @@ waterTimesLimit = 20  # 自定义的每天浇水最大次数
 retainWaterLimit = 100  # 完成10次浇水任务的基础上,希望水滴始终高于此数
 waterFriendLimit = 2  # [0,2]   0: 始终不替他人浇水   2: 替他人浇水2次以完成任务获得25水
 
-shareCodes = ["c081c648576e4e61a9697c3981705826",
-              "f1d0d5ebda7c48c6b3d262d5574315c7",
-              "13d13188218a4e3aae0c4db803c81985"]
+shareCodes = ["d2d5d435675544679413cb9145577e0f", # DoveBoy
+"a9fe029bdfc74ecdb395fa848da56026", #勾寻文2
+"101e53c859b5424b8d29fb389aa5aca7", # muzi13
+"58a45733c946470bb6436bf1ada57be2", # leeyiding
+"62e6c1861d4c4fbebe1e40f109755100", # GitCourser
+"f0c3537f49b74bf2a4c7399d8cccda65", # zhudan
+"3de9821f43c14c33b3c482fd61136633", # Matear890
+"01766d5c8676418da8f0cf4d49c0640b", # sdogsq
+"6d06fa98969f4fd2aa8b03b3178cc597", # sdogsq
+"0f3db2ee6707429eb07fca305121a3d4", # zaccheo
+"5d73bb7a53fd4aef8af8050531e2d6f5", # watewq
+"8a8ac88e98904f40a25a41c9e492436e", # zaccheo
+"ac0357128b554a928cad2456c0985db1", # zaccheo
+"5fc25368858e4418a90975a7d0e23c6c", # awei4287
+"3b2e1bee164249bca099b60d7e4b0082", # wuli01
+"6447c9c61b0c4f9a89b6d497fcaf47c9",# wuli01
+"e4ab3f1c4add4513b07ee88b9c9f7784", # heros-sky
+"ab54f776995e4a34b405e16724833517",# CzRQ
+"99773b2ed45449aca7f6f5aee4434fb4",# CzRQ
+"abdc07b6aa804a5ba183bdd88fd68654",# CzRQ
+"72b1f2cb90e749559873370405df141d",# kotorin
+"88a661231c504d9db5fd53a04be3752d",# Mac
+"6503632e4284446787818ad8fb39baeb",# erse
+"698d6f61c879488a9e9414b526aab95c", # pazza
+"6b79344657394201a12ed07aad1082a3",# QGsen
+"dbe88523e4044f87b90e643fe62c79f6",
+"cd1c9e18dc45494183255e989d52401c",
+"7eb56b9a182a46939846d5afab39e93e",# Passtey
+"804b416fde154c64a56e6662abd9b6bf", # kasim
+"82ae5bd339d84fd188a690610cc120b8",# 872119925
+"fb7c8066b68f464eb5b83007241f47bd",# 872119925
+"5dc2fab7051f4969a459f8fa10ccff51",# Pyj
+"283f780699344343ae1c47743df4b1f8", # chenyz1984
+"48e6f7c3b2494ab89fdf3479212121df", # chenyz1984
+"4fd723be248f420ba7492d2dd9087b84", # chenyz1984
+"ba237aedd1ef4968a355610b776e341f",# yyteiark
+"241d233796d84cb8b69cf927b00aa1c9",# doudou628
+"a50e6d7efcd848ca8281cb9de0fc87e4",# wg1977
+"95fb0d29333e4042b757b9e3d9fa0ab7",# wg1977]
 
 
 def postTemplate(cookies, functionId, body):
