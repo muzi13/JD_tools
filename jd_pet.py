@@ -50,7 +50,8 @@ shareCodes = ["MTAxODc2NTEzMjAwMDAwMDAwNDA5MzAzMw==", # DoveBoy
 "MTEzMzI0OTE0NTAwMDAwMDAzNjY4Nzc2Nw==", # chenyz1984
 "MTAxODc2NTEzMTAwMDAwMDAwMTQ1NDY4OQ==",# yyteiark
 "MTAxODc2NTEzMDAwMDAwMDAwNjIzMDM5Nw==",# wg1977
-"MTAxODc2NTEzNDAwMDAwMDAxNTY3MjY3OQ==",# wg1977]  # 自己不能助力自己,填写他人的助力码
+"MTAxODc2NTEzNDAwMDAwMDAxNTY3MjY3OQ==",# wg1977
+             ]  # 自己不能助力自己,填写他人的助力码
 
 
 
