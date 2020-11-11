@@ -11,9 +11,44 @@ import jdCookie
 2、cron 35 6-23 * * *
 """
 
-plantUuid = ["7pt22jcko7ljrbpeask7r6avre3h7wlwy7o5jii",
-             "r7zdf2yfo4phlpel3nu4q63reu",
-             "e7lhibzb3zek2ssdsoyhpgn26va7nkkzj6ygely"]  # 填写别人的助力码
+plantUuid = ["e7lhibzb3zek27gfeceqb6wwm45gshcaroxg5ka", # DoveBoy
+"igefhjvuw6xvttzinfclhdqx32hqfwy7ik7bvpq", #勾寻文2
+"ycr5557mgdopyat3lbjx3hikhk44ew5ktg5nyri", # muzi13
+"vbkunq7afsudascdq3z6krakjc45b5tui6b3tj3amayufh5s57sq", # zaccheo
+"mlrdw3aw26j3xych4vkjtv2fvj6dj7wfralfvuq", # zaccheo
+"4vvbjlml6tdfdxk5evdtgofbb4onctf3ikszncq", # zaccheo
+"olmijoxgmjutz6rufgoyyxlyhdkxn2i5ssi7uba", # leeyiding
+"2i76mnp6etaxkqwwiguq7qicru5ac3f4ijdgqji", # GitCourser
+"bnxvlp4ffm6c64kqzuofew46vi5ac3f4ijdgqji", # zhudan
+"fxnwpfvlyg2bjsayzhvfprz65mo5xypodtsgjnq", # Matear890
+"e7lhibzb3zek2v6lfnqcpejss755xgeesooegwa", # sdogsq
+"7bfy6xxncgn3cra6vysnzff4iq", # sdogsq
+"4npkonnsy7xi3ot4m6stw6w2aq2w2vqh7ltkbxq", # watewq
+"2ipsfzdbgsvktdx2cbjxrxo7tnmvren2celq6lq", # awei4287
+"nf4huobli66bv5yjpgr6xvtw643h7wlwy7o5jii", # wuli01
+"cyjvf5btxliufhxf52gsdrzwnd2b4juzqkep47y", # wuli01
+"53hz7smmdl62xurlffm24zdovq5ac3f4ijdgqji", # heros-sky
+"4npkonnsy7xi23s7mq2rsrofkksnse3lbija4ya",# CzRQ
+"fbdwqsx52ku446hvnga2zhk5wn726767tw62vda",# CzRQ
+"e7lhibzb3zek3rc3nkeb2utelglt6z67mdg6hhq",# CzRQ
+"fb227jqogvovf5dekrautr3vly3h7wlwy7o5jii",# Mac
+"wsr6thb5bd25l532pbkr2w7ltlcnxnsttyd3a6y",# erse
+"entryId=2tpyf45pvqnbyoqbns6eertieu", # pazza
+"ohh7i5v7bjv7xggctiadqsblga3h7wlwy7o5jii",# QGsen
+"e7lhibzb3zek2ovqwcjbf3ienys6y42l5jbzicq",
+"5kk5tctolkrkcquwab2sinv6zm",
+"twcyyfxmuxfv4ka537q4bguytu",# Passtey
+"6o2dhu4lgbdhjubnysnhphmr6a", # kasim
+"h4k4725iodq7l6c4hhwzyu47tu",# 872119925
+"olmijoxgmjutzlngqgs7cyf57xpzwsasj5h3pfy",# 872119925
+"wrirm5dzfnv263tamt5d3dc3fa5ac3f4ijdgqji",# Pyj
+"d2dohdsppwgsynmsh55xhozjf4", # chenyz1984
+"nkiu2rskjyetah2cxwgmgpzhnz72gjsybycp5wi", # chenyz1984
+"mwgcqm2qt5ak3frmuk3rspcm5q5ac3f4ijdgqji", # chenyz1984
+"tcwhysgunqvnwotm6n5pn2kura",# yyteiark
+"4npkonnsy7xi2xaebjhxhq4qrxjuxcakeat3k5i",# doudou628
+"kgaroyrauafivcbp2cpznl3xoa",# wg1977
+"za6kg6vamtzyyelngvu4egas74",# wg1977]  # 填写别人的助力码
 
 def functionTemplate(cookies, functionId, body):
     headers = {
