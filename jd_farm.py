@@ -55,7 +55,8 @@ shareCodes = ["d2d5d435675544679413cb9145577e0f", # DoveBoy
 "ba237aedd1ef4968a355610b776e341f",# yyteiark
 "241d233796d84cb8b69cf927b00aa1c9",# doudou628
 "a50e6d7efcd848ca8281cb9de0fc87e4",# wg1977
-"95fb0d29333e4042b757b9e3d9fa0ab7",# wg1977]
+"95fb0d29333e4042b757b9e3d9fa0ab7",# wg1977
+             ]
 
 
 def postTemplate(cookies, functionId, body):
