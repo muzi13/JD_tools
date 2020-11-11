@@ -2,7 +2,7 @@ name: 东东萌宠
 
 on:
   schedule:
-    - cron: '30 3,9,15,16,22 * * *'
+    - cron: '30 * * * *'
   watch:
     types: [started]
 jobs:
