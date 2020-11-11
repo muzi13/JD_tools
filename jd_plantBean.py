@@ -48,7 +48,8 @@ plantUuid = ["e7lhibzb3zek27gfeceqb6wwm45gshcaroxg5ka", # DoveBoy
 "tcwhysgunqvnwotm6n5pn2kura",# yyteiark
 "4npkonnsy7xi2xaebjhxhq4qrxjuxcakeat3k5i",# doudou628
 "kgaroyrauafivcbp2cpznl3xoa",# wg1977
-"za6kg6vamtzyyelngvu4egas74",# wg1977]  # 填写别人的助力码
+"za6kg6vamtzyyelngvu4egas74",# wg1977
+            ]  # 填写别人的助力码
 
 def functionTemplate(cookies, functionId, body):
     headers = {
